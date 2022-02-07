@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background-image:url(img/wp6083640.png);
+}
+#xboxh1{
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 65px;
+    background-color: black ;
+    border: solid;
+}
+.kep{
+    width: 320px;
+    height: 320px;
+}
+.tablazat{
+    text-align: center;
+}
+
+
